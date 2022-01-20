@@ -5,8 +5,8 @@ Code and files for the 2022 Hydroinformatics class
 
 Paragraph Text
 
-*Bulleted List
-*Bulleted List
+* Bulleted List
+* Bulleted List
 
 1. Numbered List
 2. Numbered List
